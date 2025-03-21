@@ -30,6 +30,7 @@ header {
   /* margin-bottom: 30px; */
 }
 
+
 header h1 {
   font-size: 3rem;
   margin-bottom: 10px;
@@ -86,7 +87,7 @@ ul {
 ul li {
   font-size: 1.1rem;
   margin: 10px 0;
-  padding-left: 15px;
+  padding-left: 10px;
   position: relative;
 }
 
@@ -110,10 +111,18 @@ ul li .title {
   /* font-weight: 500; */
 }
 
+ul li table {
+  width: 80%;
+}
+
 ul li td:first-child {
   display: flex;
   align-items: center;
-  width: 45px;
+  width: 35px;
+}
+
+ul li td {
+  width: 100%;
 }
 
 /* Default styling for the dropdown icon */
@@ -125,7 +134,7 @@ ul li td:first-child {
   display: inline-block;
   align-self: center;
   justify-self: center;
-  margin: 10px;
+  margin: 10px 10px 10px 0;
   transform: rotate(-45deg); /* Default arrow */
   transition: transform 0.3s ease; /* Smooth transition */
 }
