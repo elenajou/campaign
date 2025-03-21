@@ -1,0 +1,28 @@
+{
+  "strategy": {
+    "title": "Campaign Strategy",
+    "description": "If elected, I will:",
+    "items": [
+      {
+        "title": "Bring career fairs and networking events to Downtown Campus.",
+        "details": "I will push for on-campus career fairs and employer meetups so students don’t have to travel to Burnaby. These events will provide opportunities for students to connect with industry professionals and learn about job openings."
+      },
+      {
+        "title": "Introduce BCIT Network Hub for structured speed-friending and networking.",
+        "details": "This event will help students build friendships and professional connections in a relaxed environment. It will focus on connecting students across various disciplines and building a strong campus community."
+      },
+      {
+        "title": "Organize pre-exam wellness events featuring therapy dogs, meditation, and art therapy.",
+        "details": "These wellness events will help reduce stress before exams and foster a supportive, positive environment on campus. Students can relax, meditate, and connect with therapy animals to improve their mental health."
+      },
+      {
+        "title": "Negotiate discounts for Downtown students with local businesses.",
+        "details": "I will work with local businesses to provide discounts for students on essentials like food, fitness, and study-friendly spaces. This will help reduce financial stress, especially in the high-cost area of Downtown Vancouver."
+      },
+      {
+        "title": "Advocate for more visibility and financial support for student clubs.",
+        "details": "Student clubs at Downtown campus need more recognition and resources. I will advocate for better funding and visibility for all clubs to foster engagement and enhance student life."
+      }
+    ]
+  }
+}
